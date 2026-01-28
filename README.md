@@ -41,10 +41,10 @@ Note: Ensure `sales.csv` file is present in the directory.
 ## 4. Output Screenshots
 
 ### Terminal Execution
-![Terminal Output](Terminal Output.png)
+![Terminal Output](Terminal_Output.png)
 
 ### Generated JSON File
-![JSON Output](JSON Output.png)
+![JSON Output](JSON_Output.png)
 
 ## 5. Future Improvements
 If I had 2 more days, I would:
