@@ -1,0 +1,16 @@
+[
+    {
+        "id": 101,
+        "product": "Widget A",
+        "price_USD": 10.5,
+        "price_INR": 871.5,
+        "country": "USA"
+    },
+    {
+        "id": 102,
+        "product": "Widget B",
+        "price_USD": 5.0,
+        "price_INR": 415.0,
+        "country": "Canada"
+    }
+]
