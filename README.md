@@ -4,17 +4,11 @@
 A Python ETL (Extract, Transform, Load) pipeline that processes messy CSV sales data, performs data cleaning, removes duplicates, converts USD to INR, and exports clean JSON data for further analysis.
 
 ## 2. Setup Instructions
-```bash
-# 1. Clone the repository
-git clone https://github.com/rakshabirlaji123-art/Sales-Data-Cleaner.git
-
-# 2. Navigate to project directory
-cd Sales-Data-Cleaner
-
-# 3. Run the script
-py main.py
-```
-Note: Ensure `sales.csv` file is present in the directory.
+1. Make sure Python 3 is installed on your system.
+2. Place sales.csv and main.py in the same folder.
+3. Open terminal in the project folder.
+4. Run the script using the command:
+   py main.py
 
 ## 3. The Logic (How you thought)
 
