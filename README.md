@@ -5,10 +5,12 @@ A Python ETL (Extract, Transform, Load) pipeline that processes messy CSV sales 
 
 ## 2. Setup Instructions
 1. Make sure Python 3 is installed on your system.
-2. Place sales.csv and main.py in the same folder.
+2. Place `sales.csv` and `main.py` in the same folder.
 3. Open terminal in the project folder.
 4. Run the script using the command:
+   ```bash
    py main.py
+   ```
 
 ## 3. The Logic (How you thought)
 
